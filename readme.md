@@ -1,2 +1,1 @@
-# Machine Learning Model deployed using FAST API 
-## The code uses diabetes data set avaialble within scikit-learn module, and Random Forest to train the model
+# This repo has some of projects I have developed while proacticing and learning Machine Learning Projects and Model Deployments.
